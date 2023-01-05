@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  margin-top: 30px!important;
+}
+
+.card {
+  width: 210px;
+  margin: 20px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  height: 700px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  margin: 60px;
+}
